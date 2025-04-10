@@ -1,1 +1,2 @@
 change after adding external scm logins in codebeamer
+change 1 : changed github primary email adress to codebeamer email aderss. 
